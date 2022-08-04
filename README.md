@@ -8,9 +8,9 @@
 [![Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loner789&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loner789&show_icons=true&hide_title=true&hide=stars,contributes&theme=default)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loner789a&repo=top-langs" />
+<a href="https://github.com/anuraghazra/yop-lang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loner789&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Loner789&repo=pin" />
+<a href="https://github.com/anuraghazra/github-readme-statst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Loner789&show_icons=true&hide_title=true&hide=stars,contributes&theme=default" />
 </a>
