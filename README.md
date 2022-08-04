@@ -3,7 +3,7 @@
 * I currently studied at Yandex.Practicum.
 * I love building applications & discussing new product ideas.
 * My passion for programming lies with making up ideas come true with elegant interfaces.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+page!!!)](https://git.io/typing-svg)
 ___
 ## My stack:
 
