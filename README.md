@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitriy!
+# 👋 Hi, I'm Dmitry!
 * I'm a frontend developer.
 * I currently studied at Yandex.Practicum.
 * I love building applications & discussing new product ideas.
