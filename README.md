@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Dmitriy! #[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=welcome+to+my+page)](https://git.io/typing-svg)
-* 
-*
-*
-*
-*
+# 👋 Hi, I'm Dmitriy! [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=welcome+to+my+page)](https://git.io/typing-svg)
+* I'm a frontend developer.
+* I currently studied at Yandex.Practicum.
+* I love building applications & discussing new product ideas.
+* My passion for programming lies with making up ideas  come true with elegant interfaces.
 ___
 ## My stack:
 
