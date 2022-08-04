@@ -1,2 +1,2 @@
 ### Hi, I`m Dmitriy!👋
-[![GitHub от Anurag stats](https://github-readme-stats.vercel.app/api?username=Loner789)](https://github.com/anuraghazra/github-readme-stats)
+[![Топ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loner789&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
