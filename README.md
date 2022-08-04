@@ -10,8 +10,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loner789&layout=compact" />
+  <img align="center" width="50%" height="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loner789&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=Loner789&show_icons=true&hide_title=true&hide=stars,contributes&theme=default" />
+  <img align="center" width="50%" height="320px" src="https://github-readme-stats.vercel.app/api?username=Loner789&show_icons=true&hide_title=true&hide=stars,contributes&theme=default" />
 </a>
