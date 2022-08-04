@@ -1,6 +1,6 @@
 ### Hi, I`m Dmitriy!👋
 
-My stack:
+**My stack:**
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,git,mongodb,jquery,figma)](https://skills.thijs.gg)
 
