@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitriy! [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+love+coding)](https://git.io/typing-svg)
+# 👋 Hi, I'm Dmitriy! [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=welcome+to+my+page)](https://git.io/typing-svg)
 * 
 *
 *
