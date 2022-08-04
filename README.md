@@ -7,7 +7,7 @@
 ___
 ## My stack:
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,mongodb,jquery,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,git,mongodb,jquery,webpack,vscode,figma)](https://skills.thijs.gg)
 ___
 ## My statistics:
 
